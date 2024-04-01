@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! 👋
 
-Olá, sou Miguel Luizatto! Desenvolvedor Back-end apaixonado por criar soluções inovadoras e explorar novas tecnologias. Sinta-se à vontade para explorar meus projetos e entrar em contato comigo.
+Olá, sou Miguel Luizatto Alves! Desenvolvedor Back-end apaixonado por criar soluções inovadoras e explorar novas tecnologias. Sinta-se à vontade para explorar meus projetos e entrar em contato comigo.
 
 ## Sobre mim
 
