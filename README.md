@@ -12,7 +12,7 @@ Olá, sou Miguel Luizatto Alves! Desenvolvedor Back-end apaixonado por criar sol
 ## Minhas estatísticas no GitHub
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=l3gium&show_icons=true&theme=dark" alt="Anurag's GitHub stats" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api?username=l3gium&show_icons=true&theme=dark&count_private=true" alt="Anurag's GitHub stats" width="45%">
 </div>
 
 ## Linguagens que mais uso
@@ -21,7 +21,7 @@ Olá, sou Miguel Luizatto Alves! Desenvolvedor Back-end apaixonado por criar sol
     <table>
         <tr>
             <td style="width: 50%; text-align: center">
-                <img height="200em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3gium&layout=compact&theme=dark">
+                <img height="200em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3gium&layout=compact&theme=dark&count_private=true">
             </td>
             <td style="width: 50%; text-align: center">
                 <img height="160em" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nodejs,express,mongodb,mysql,github,cs,dotnet,cpp,visualstudio,vscode,java,&perline=5&theme=light" alt="GitHub Streak"/>
